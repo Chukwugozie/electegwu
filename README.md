@@ -1,2 +1,2 @@
-# electegwu
-My first repository
+# My_Repo
+My first repository!
